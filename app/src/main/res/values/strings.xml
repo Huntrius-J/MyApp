@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="news_string" >Новости</string>
+    <string name="toDoList">Список дел</string>
+</resources>
